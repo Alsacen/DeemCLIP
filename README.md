@@ -1,2 +1,1 @@
-# DeemCLIP: Dual Emotion Enhancement Module
-# Coming Soon
+# DeemCLIP: A CLIP framework with Dual Emotion Enhancement Module
